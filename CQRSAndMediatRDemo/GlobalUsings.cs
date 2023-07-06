@@ -1,0 +1,9 @@
+﻿global using CQRSAndMediatRDemo.Commands;
+global using CQRSAndMediatRDemo.Models;
+global using CQRSAndMediatRDemo.Queries;
+global using MediatR;
+global using Microsoft.AspNetCore.Mvc;
+global using CQRSAndMediatRDemo.Repositories;
+global using CQRSAndMediatRDemo.Data;
+global using System.Reflection;
+global using Microsoft.EntityFrameworkCore;
